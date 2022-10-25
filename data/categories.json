@@ -1,18 +1,18 @@
 [
     {
-      "category_id": "01",
-      "category_name": "SSC"
+      "id": "01",
+      "name": "SSC"
     },
     {
-      "category_id": "02",
-      "category_name": "HSC Admission"
+      "id": "02",
+      "name": "HSC Admission"
     },
     {
-      "category_id": "03",
-      "category_name": "IELTS"
+      "id": "03",
+      "name": "IELTS"
     },
     {
-      "category_id": "04",
-      "category_name": "Skill Development"
+      "id": "04",
+      "name": "Skill Development"
     }
   ]
