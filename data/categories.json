@@ -9,10 +9,18 @@
     },
     {
       "id": "03",
-      "name": "Skill Development"
+      "name": "Web & Software"
     },
     {
       "id": "04",
+      "name": "Graphic Design"
+    },
+    {
+      "id": "05",
+      "name": "Photo & Video Edit"
+    },
+    {
+      "id": "06",
       "name": "All Courses"
     }
   ]

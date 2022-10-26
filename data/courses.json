@@ -1,329 +1,326 @@
 [
-    {
-      "category_id": "01",
-      "category_name": "SSC",
-      "_id": "111",
-      "title": "SSC- Math",
-      "img": "https://shikho.com/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fcross-border-education-technologies-pte-ltd%2Fimage%2Fupload%2Fv1659263350%2Ffa2vxjzgxozffyk7vb8z.png&w=828&q=75",
-      "instructor": "Bari Science Lab",
-      "email": "bari@pulze.com",
-      "description": "Confused by the tricks of Maths? Try our special animated classes! Here is the solution of the syllabus in one course!",
-      "total_enroll": 72,
-      "tags": [
-        "32 video lessons",
-        "25 Quiz",
-        "10 Board Papers and Mock Exams"
-      ],
-      "fee": "380 taka"
-    },
+  {
+    "category_id": "03",
+    "category_name": "Web & Software",
+    "_id": "311",
+    "title": "Complete Web Development",
+    "img": "https://phero-web.nyc3.cdn.digitaloceanspaces.com/website-prod-images/public/files/1654421926132.png",
+    "instructor": "Jhangkar Mahbub",
+    "email": "web@programming-hero.com",
+    "description": "Frontend (HTML, CSS, JS, ES6, React, charting), backend (node, express, API), database (mongodb), chrome dev tools, hosting, GitHub, interview problem solving, Prepare for intern/full time job - everything!",
+    "total_enroll": 5000,
+    "tags": [
+      "775 video lectures",
+      "12 projects",
+      "Unlimited Support",
+      "Lifetime Access",
+      "Job/intern hunting"
+    ],
+    "fee": "5,500 taka"
+  },
 
-    {
-      "category_id": "02",
-      "category_name": "HSC",
-      "_id": "211",
-      "title": "HSC- English",
-      "img": "https://shikho.com/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fcross-border-education-technologies-pte-ltd%2Fimage%2Fupload%2Fv1656656307%2Foqjc8f68wwbhfmfddjiv.png&w=828&q=75",
-      "instructor": "Ayman Sadiq",
-      "email": "mccartybrennan@comtours.com",
-      "description": "By joining this course, you will make less mistakes in grammar or sentence structure. Easily understand your problem areas in English with animated video lessons.",
-      "total_enroll": 35,
-      "tags": [
-        "35 video lessons",
-        "20 Quiz",
-        "10 Board Papers and Mock Exams"
-      ],
-      "fee": "500 taka"
-    },
+  {
+    "category_id": "03",
+    "category_name": "Web & Software",
+    "_id": "313",
+    "title": "A Complete Journey to Become a Programmer",
+    "img": "https://phi.sgp1.cdn.digitaloceanspaces.com/website-prod-images/public/files/1662735441741.jpg",
+    "instructor": "Phitron",
+    "email": "support@phitron.io",
+    "description": "If you want to become a skilled programmer by learning Math for Programming, Introduction to Programming (C), Data Structures, Algorithm, OOP, Database, Server Deploy in AWS from scratch and doing Final Project then join this course.",
+    "total_enroll": 2500,
+    "tags": [
+      "3 Semesters",
+      "Unlimited Support",
+      "Basic to Job Placement",
+      "Problem Solvers Club",
+      "Lifetime Access",
+      "Job/intern hunting"
+    ],
+    "fee": "6,500 taka"
+  },
 
-    {
-      "category_id": "03",
-      "category_name": "Skill Development",
-      "_id": "311",
-      "title": "Complete Web Development",
-      "img": "https://phero-web.nyc3.cdn.digitaloceanspaces.com/website-prod-images/public/files/1654421926132.png",
-      "instructor": "Jhangkar Mahbub",
-      "email": "web@programming-hero.com",
-      "description": "Frontend (HTML, CSS, JS, ES6, React, charting), backend (node, express, API), database (mongodb), chrome dev tools, hosting, GitHub, interview problem solving, Prepare for intern/full time job - everything!",
-      "total_enroll": 5000,
-      "tags": [
-        "775 video lectures",
-        "12 projects",
-        "Unlimited Support",
-        "Lifetime Access",
-        "Job/intern hunting"
-      ],
-      "fee": "5,500 taka"
-    },
+  {
+    "category_id": "03",
+    "category_name": "Web & Software",
+    "_id": "314",
+    "title": "MERN Stack Development",
+    "img": "https://www.creativeitinstitute.com/images/course/course_1662795698.jpg",
+    "instructor": "Creative IT",
+    "email": "info@creativeitinstitute.com",
+    "description": "MERN stack development is a subject where web design, web development and app development can be mastered together. At present MERN stack Developers are in high demand in the market place and domestic companies. So enroll in MERN stack Development course to build skills.",
+    "total_enroll": 72,
+    "tags": ["65 video lectures", "6 projects"],
+    "fee": "4,000 taka"
+  },
 
-    {
-      "category_id": "01",
-      "category_name": "SSC",
-      "_id": "112",
-      "title": "SSC- Physics",
-      "img": "https://shikho.com/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fcross-border-education-technologies-pte-ltd%2Fimage%2Fupload%2Fv1656655473%2Fpma7gkdj9tmieyhazugz.png&w=828&q=75",
-      "instructor": "Wahed Imtiaz",
-      "email": "bari@pulze.com",
-      "description": "All the theories of physics will now be at your fingertips. The animated video lessons will make all the details of the theory very clear.",
-      "total_enroll": 50,
-      "tags": [
-        "27 video lessons",
-        "18 Quiz",
-        "10 Board Papers and Mock Exams"
-      ],
-      "fee": "400 taka"
-    },
+  {
+    "category_id": "05",
+    "category_name": "Photo & Video Edit",
+    "_id": "512",
+    "title": "Adobe Illustrator",
+    "img": "https://www.creativeitinstitute.com/images/course/course_1663052023.jpg",
+    "instructor": "Creative IT",
+    "email": "info@creativeitinstitute.com",
+    "description": "Illustrator is used in all multimedia work including web design, motion graphics, illustration, print and press, video production. So if you want to learn Adobe Illustrator or build a career as a professional illustrator, then our Adobe Illustrator course is for you.",
+    "total_enroll": 370,
+    "tags": ["50 video lectures", "7 projects", "Lifetime Access"],
+    "fee": "4,000 taka"
+  },
 
-    {
-      "category_id": "02",
-      "category_name": "HSC",
-      "_id": "212",
-      "title": "HSC- Science Bundle",
-      "img": "https://shikho.com/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fcross-border-education-technologies-pte-ltd%2Fimage%2Fupload%2Fv1660761593%2Ft0c94eqd0rjh1dnrxvom.png&w=828&q=75",
-      "instructor": "Zeeshan Zakaria",
-      "email": "mccartybrennan@comtours.com",
-      "description": "Collection of all Animated Lessons Courses of Science Department of HSC. Great savings on the whole package.",
-      "total_enroll": 90,
-      "tags": [
-        "100+ video lessons",
-        "100+ Quiz",
-        "15 Board Papers and Mock Exams"
-      ],
-      "fee": "5,500 taka"
-    },
+  {
+    "category_id": "01",
+    "category_name": "SSC",
+    "_id": "111",
+    "title": "SSC- Math",
+    "img": "https://shikho.com/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fcross-border-education-technologies-pte-ltd%2Fimage%2Fupload%2Fv1659263350%2Ffa2vxjzgxozffyk7vb8z.png&w=828&q=75",
+    "instructor": "Bari Science Lab",
+    "email": "bari@pulze.com",
+    "description": "Confused by the tricks of Maths? Try our special animated classes! Here is the solution of the syllabus in one course!",
+    "total_enroll": 72,
+    "tags": ["32 video lessons", "25 Quiz", "10 Board Papers and Mock Exams"],
+    "fee": "380 taka"
+  },
 
-    {
-      "category_id": "03",
-      "category_name": "Skill Development",
-      "_id": "312",
-      "title": "App Development",
-      "img": "https://www.creativeitinstitute.com/images/course/course_1663052092.jpg",
-      "instructor": "Creative IT",
-      "email": "mccartybrennan@comtours.com",
-      "description": "Android app development in on the top list among the careers that are in demand in the new era. That's why our courses are designed in such a way that you can learn app development with us from scratch & become professional.",
-      "total_enroll": 25,
-      "tags": [
-        "35 video lectures",
-        "5 projects",
-        "Lifetime Access"
-      ],
-      "fee": "1,500 taka"
-    },
+  {
+    "category_id": "02",
+    "category_name": "HSC",
+    "_id": "211",
+    "title": "HSC- English",
+    "img": "https://shikho.com/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fcross-border-education-technologies-pte-ltd%2Fimage%2Fupload%2Fv1656656307%2Foqjc8f68wwbhfmfddjiv.png&w=828&q=75",
+    "instructor": "Saiman Sadia Noboni",
+    "email": "mccartybrennan@comtours.com",
+    "description": "By joining this course, you will make less mistakes in grammar or sentence structure. Easily understand your problem areas in English with animated video lessons.",
+    "total_enroll": 35,
+    "tags": ["35 video lessons", "20 Quiz", "10 Board Papers and Mock Exams"],
+    "fee": "500 taka"
+  },
 
-    {
-      "category_id": "01",
-      "category_name": "SSC",
-      "_id": "113",
-      "title": "SSC- Chemistry",
-      "img": "https://shikho.com/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fcross-border-education-technologies-pte-ltd%2Fimage%2Fupload%2Fv1657794513%2Fswiqhmkmnzmbyygkv4oh.png&w=828&q=75",
-      "instructor": "Saiman Sadia Noboni",
-      "email": "bari@pulze.com",
-      "description": "From Earth's structure to chemical bonds, we have animated video lessons for you to easily understand.",
-      "total_enroll": 32,
-      "tags": [
-        "30 video lessons",
-        "22 Quiz",
-        "10 Board Papers and Mock Exams"
-      ],
-      "fee": "400 taka"
-    },
+  {
+    "category_id": "01",
+    "category_name": "SSC",
+    "_id": "112",
+    "title": "SSC- Physics",
+    "img": "https://shikho.com/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fcross-border-education-technologies-pte-ltd%2Fimage%2Fupload%2Fv1656655473%2Fpma7gkdj9tmieyhazugz.png&w=828&q=75",
+    "instructor": "Wahed Imtiaz",
+    "email": "bari@pulze.com",
+    "description": "All the theories of physics will now be at your fingertips. The animated video lessons will make all the details of the theory very clear.",
+    "total_enroll": 50,
+    "tags": ["27 video lessons", "18 Quiz", "10 Board Papers and Mock Exams"],
+    "fee": "400 taka"
+  },
 
-    {
-      "category_id": "02",
-      "category_name": "HSC",
-      "_id": "213",
-      "title": "HSC- ICT",
-      "img": "https://shikho.com/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fcross-border-education-technologies-pte-ltd%2Fimage%2Fupload%2Fv1657100057%2Fojr6ekn8nmekmgfgiiqj.png&w=828&q=75",
-      "instructor": "Sin-Sumbil Binte Obaed",
-      "email": "mccartybrennan@comtours.com",
-      "description": "Not only a good grade in ICT, but also a thorough knowledge of modern Communication, Technologies & basic programming will keep you ahead of everyone else.",
-      "total_enroll": 25,
-      "tags": [
-        "20 video lessons",
-        "15 Quiz",
-        "5 Board Papers and Mock Exams"
-      ],
-      "fee": "350 taka"
-    },
+  {
+    "category_id": "02",
+    "category_name": "HSC",
+    "_id": "212",
+    "title": "HSC- Science Bundle",
+    "img": "https://shikho.com/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fcross-border-education-technologies-pte-ltd%2Fimage%2Fupload%2Fv1660761593%2Ft0c94eqd0rjh1dnrxvom.png&w=828&q=75",
+    "instructor": "Zeeshan Zakaria",
+    "email": "mccartybrennan@comtours.com",
+    "description": "Collection of all Animated Lessons Courses of Science Department of HSC. Great savings on the whole package.",
+    "total_enroll": 90,
+    "tags": [
+      "100+ video lessons",
+      "100+ Quiz",
+      "15 Board Papers and Mock Exams"
+    ],
+    "fee": "5,500 taka"
+  },
 
-    {
-      "category_id": "03",
-      "category_name": "Skill Development",
-      "_id": "313",
-      "title": "A Complete Journey to Become a Programmer",
-      "img": "https://phi.sgp1.cdn.digitaloceanspaces.com/website-prod-images/public/files/1662735441741.jpg",
-      "instructor": "Phitron",
-      "email": "support@phitron.io",
-      "description": "If you want to become a skilled programmer by learning Math for Programming, Introduction to Programming (C), Data Structures, Algorithm, OOP, Database, Server Deploy in AWS from scratch and doing Final Project then join this course.",
-      "total_enroll": 2500,
-      "tags": [
-        "3 Semesters",
-        "Unlimited Support",
-        "Basic to Job Placement",
-        "Problem Solvers Club",
-        "Lifetime Access",
-        "Job/intern hunting"
-      ],
-      "fee": "6,500 taka"
-    },
+  {
+    "category_id": "03",
+    "category_name": "Web & Software",
+    "_id": "312",
+    "title": "App Development",
+    "img": "https://www.creativeitinstitute.com/images/course/course_1663052092.jpg",
+    "instructor": "Creative IT",
+    "email": "info@creativeitinstitute.com",
+    "description": "Android app development in on the top list among the careers that are in demand in the new era. That's why our courses are designed in such a way that you can learn app development with us from scratch & become professional.",
+    "total_enroll": 25,
+    "tags": ["35 video lectures", "5 projects", "Lifetime Access"],
+    "fee": "1,500 taka"
+  },
 
-    {
-      "category_id": "01",
-      "category_name": "SSC",
-      "_id": "114",
-      "title": "SSC- Higher Math",
-      "img": "https://shikho.com/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fcross-border-education-technologies-pte-ltd%2Fimage%2Fupload%2Fv1656655548%2Ft6vrftgs9bcwlcytuask.png&w=828&q=75",
-      "instructor": "Bari Science Lab",
-      "email": "bari@pulze.com",
-      "description": "Smart Animated Lessons Course in Higher Mathematics. Now animated videos, smart notes, quizzes and other great features in one course.",
-      "total_enroll": 32,
-      "tags": [
-        "28 video lessons",
-        "20 Quiz",
-        "10 Board Papers and Mock Exams"
-      ],
-      "fee": "400 taka"
-    },
+  {
+    "category_id": "01",
+    "category_name": "SSC",
+    "_id": "113",
+    "title": "SSC- Chemistry",
+    "img": "https://shikho.com/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fcross-border-education-technologies-pte-ltd%2Fimage%2Fupload%2Fv1657794513%2Fswiqhmkmnzmbyygkv4oh.png&w=828&q=75",
+    "instructor": "Saiman Sadia Noboni",
+    "email": "bari@pulze.com",
+    "description": "From Earth's structure to chemical bonds, we have animated video lessons for you to easily understand.",
+    "total_enroll": 32,
+    "tags": ["30 video lessons", "22 Quiz", "10 Board Papers and Mock Exams"],
+    "fee": "400 taka"
+  },
 
-    {
-      "category_id": "02",
-      "category_name": "HSC",
-      "_id": "214",
-      "title": "HSC- Physics 1st Paper",
-      "img": "https://shikho.com/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fcross-border-education-technologies-pte-ltd%2Fimage%2Fupload%2Fv1656655802%2Fby8legjsde2br4rdncnh.png&w=828&q=75",
-      "instructor": "Toiyob Hossain",
-      "email": "mccartybrennan@comtours.com",
-      "description": "This course is designed for HSC 1st and 2nd year students and HSC candidates.",
-      "total_enroll": 30,
-      "tags": [
-        "37 video lessons",
-        "30 Quiz",
-        "10 Board Papers and Mock Exams"
-      ],
-      "fee": "500 taka"
-    },
+  {
+    "category_id": "02",
+    "category_name": "HSC",
+    "_id": "213",
+    "title": "HSC- ICT",
+    "img": "https://shikho.com/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fcross-border-education-technologies-pte-ltd%2Fimage%2Fupload%2Fv1657100057%2Fojr6ekn8nmekmgfgiiqj.png&w=828&q=75",
+    "instructor": "Sin-Sumbil Binte Obaed",
+    "email": "mccartybrennan@comtours.com",
+    "description": "Not only a good grade in ICT, but also a thorough knowledge of modern Communication, Technologies & basic programming will keep you ahead of everyone else.",
+    "total_enroll": 25,
+    "tags": ["20 video lessons", "15 Quiz", "5 Board Papers and Mock Exams"],
+    "fee": "350 taka"
+  },
 
-    {
-      "category_id": "03",
-      "category_name": "Skill Development",
-      "_id": "314",
-      "title": "MERN Stack Development",
-      "img": "https://www.creativeitinstitute.com/images/course/course_1662795698.jpg",
-      "instructor": "Creative IT",
-      "email": "mccartybrennan@comtours.com",
-      "description": "MERN stack development is a subject where web design, web development and app development can be mastered together. At present MERN stack Developers are in high demand in the market place and domestic companies. So enroll in MERN stack Development course to build skills.",
-      "total_enroll": 72,
-      "tags": [
-        "65 video lectures",
-        "6 projects"
-      ],
-      "fee": "4,000 taka"
-    },
+  {
+    "category_id": "04",
+    "category_name": "Graphic Design",
+    "_id": "411",
+    "title": "Graphic Design",
+    "img": "https://www.creativeitinstitute.com/images/course/course_1665409737.jpg",
+    "instructor": "Creative IT",
+    "email": "info@creativeitinstitute.com",
+    "description": "The demand for graphic designers across the globe is now skyrocketing. Do you love to do design work? Then our graphic design course with expert instructor in updated modules is for you.",
+    "total_enroll": 752,
+    "tags": ["70 video lectures", "8 projects", "Lifetime Access"],
+    "fee": "5,000 taka"
+  },
 
-    {
-      "category_id": "01",
-      "category_name": "SSC",
-      "_id": "115",
-      "title": "SSC- Biology",
-      "img": "https://shikho.com/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fcross-border-education-technologies-pte-ltd%2Fimage%2Fupload%2Fv1659863289%2Fus5uqw6gfewcmiye64kh.png&w=828&q=75",
-      "instructor": "Rabeya Bosri Shompa",
-      "email": "bari@pulze.com",
-      "description": "Genetics or Physiology, animated video lessons, smart notes, quizzes and exams to understand all chapters clearly.",
-      "total_enroll": 72,
-      "tags": [
-        "30 video lessons",
-        "25 Quiz",
-        "10 Board Papers and Mock Exams"
-      ],
-      "fee": "350 taka"
-    },
+  {
+    "category_id": "05",
+    "category_name": "Photo & Video Edit",
+    "_id": "511",
+    "title": "Digital Image Editing",
+    "img": "https://www.creativeitinstitute.com/images/course/course_1663051206.jpg",
+    "instructor": "Creative IT",
+    "email": "info@creativeitinstitute.com",
+    "description": "A professional image editor has a different value in big e-commerce platforms, fashion industry, publishing houses and even channels. If you want to earn from image editing, then enroll in image editing courses.",
+    "total_enroll": 420,
+    "tags": ["25 video lectures", "5 projects", "Lifetime Access"],
+    "fee": "2,100 taka"
+  },
 
-    {
-      "category_id": "02",
-      "category_name": "HSC",
-      "_id": "215",
-      "title": "HSC- Chemistry 1st Paper",
-      "img": "https://shikho.com/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fcross-border-education-technologies-pte-ltd%2Fimage%2Fupload%2Fv1657794840%2Fyf1vd0dtazd8jktaadgh.png&w=828&q=75",
-      "instructor": "Saiman Sadia Noboni",
-      "email": "mccartybrennan@comtours.com",
-      "description": "Perfect lesson plans with animated videos are here for you to easily remove such confusion.",
-      "total_enroll": 22,
-      "tags": [
-        "36 video lessons",
-        "25 Quiz",
-        "10 Board Papers and Mock Exams"
-      ],
-      "fee": "380 taka"
-    },
+  {
+    "category_id": "01",
+    "category_name": "SSC",
+    "_id": "114",
+    "title": "SSC- Higher Math",
+    "img": "https://shikho.com/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fcross-border-education-technologies-pte-ltd%2Fimage%2Fupload%2Fv1656655548%2Ft6vrftgs9bcwlcytuask.png&w=828&q=75",
+    "instructor": "Bari Science Lab",
+    "email": "bari@pulze.com",
+    "description": "Smart Animated Lessons Course in Higher Mathematics. Now animated videos, smart notes, quizzes and other great features in one course.",
+    "total_enroll": 32,
+    "tags": ["28 video lessons", "20 Quiz", "10 Board Papers and Mock Exams"],
+    "fee": "400 taka"
+  },
 
-    {
-      "category_id": "03",
-      "category_name": "Skill Development",
-      "_id": "315",
-      "title": "Python with Django",
-      "img": "https://www.creativeitinstitute.com/images/course/course_1662801340.jpg",
-      "instructor": "Creative IT",
-      "email": "mccartybrennan@comtours.com",
-      "description": "Django, the Python framework, has gained popularity as a simple and open source high-level framework. So if you want to build your build on dev, Django might be your best choice.",
-      "total_enroll": 17,
-      "tags": [
-        "30 video lectures",
-        "3 projects",
-        "Lifetime Access"
-      ],
-      "fee": "1,200 taka"
-    },
+  {
+    "category_id": "02",
+    "category_name": "HSC",
+    "_id": "214",
+    "title": "HSC- Physics 1st Paper",
+    "img": "https://shikho.com/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fcross-border-education-technologies-pte-ltd%2Fimage%2Fupload%2Fv1656655802%2Fby8legjsde2br4rdncnh.png&w=828&q=75",
+    "instructor": "Toiyob Hossain",
+    "email": "mccartybrennan@comtours.com",
+    "description": "This course is designed for HSC 1st and 2nd year students and HSC candidates.",
+    "total_enroll": 30,
+    "tags": ["37 video lessons", "30 Quiz", "10 Board Papers and Mock Exams"],
+    "fee": "500 taka"
+  },
 
-    {
-      "category_id": "01",
-      "category_name": "SSC",
-      "_id": "116",
-      "title": "SSC- Science Bundle",
-      "img": "https://shikho.com/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fcross-border-education-technologies-pte-ltd%2Fimage%2Fupload%2Fv1660761681%2Fed91px0wxaxqraibpide.png&w=828&q=75",
-      "instructor": "Zeeshan Zakaria",
-      "email": "bari@pulze.com",
-      "description": "Great Savings with SSC's Collection of Animated Lessons Courses for All Subjects of Science!",
-      "total_enroll": 78,
-      "tags": [
-        "75 video lessons",
-        "60 Quiz",
-        "15 Board Papers and Mock Exams"
-      ],
-      "fee": "3,500 taka"
-    },
+  {
+    "category_id": "01",
+    "category_name": "SSC",
+    "_id": "115",
+    "title": "SSC- Biology",
+    "img": "https://shikho.com/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fcross-border-education-technologies-pte-ltd%2Fimage%2Fupload%2Fv1659863289%2Fus5uqw6gfewcmiye64kh.png&w=828&q=75",
+    "instructor": "Rabeya Bosri Shompa",
+    "email": "bari@pulze.com",
+    "description": "Genetics or Physiology, animated video lessons, smart notes, quizzes and exams to understand all chapters clearly.",
+    "total_enroll": 72,
+    "tags": ["30 video lessons", "25 Quiz", "10 Board Papers and Mock Exams"],
+    "fee": "350 taka"
+  },
 
-    {
-      "category_id": "02",
-      "category_name": "HSC",
-      "_id": "216",
-      "title": "HSC- Biology 1st Paper",
-      "img": "https://shikho.com/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fcross-border-education-technologies-pte-ltd%2Fimage%2Fupload%2Fv1656656052%2Fb8mrqjgaqiib2vmzbys0.png&w=828&q=75",
-      "instructor": "Sadia Rehnuma Ferdous",
-      "email": "mccartybrennan@comtours.com",
-      "description": "Excellent animated lessons course with solutions for all year syllabus of HSC Biology. There are great features including smart notes, quizzes.",
-      "total_enroll": 26,
-      "tags": [
-        "20 video lessons",
-        "15 Quiz",
-        "10 Board Papers and Mock Exams"
-      ],
-      "fee": "350 taka"
-    },
+  {
+    "category_id": "02",
+    "category_name": "HSC",
+    "_id": "215",
+    "title": "HSC- Chemistry 1st Paper",
+    "img": "https://shikho.com/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fcross-border-education-technologies-pte-ltd%2Fimage%2Fupload%2Fv1657794840%2Fyf1vd0dtazd8jktaadgh.png&w=828&q=75",
+    "instructor": "Saiman Sadia Noboni",
+    "email": "mccartybrennan@comtours.com",
+    "description": "Perfect lesson plans with animated videos are here for you to easily remove such confusion.",
+    "total_enroll": 22,
+    "tags": ["36 video lessons", "25 Quiz", "10 Board Papers and Mock Exams"],
+    "fee": "380 taka"
+  },
 
-    {
-      "category_id": "03",
-      "category_name": "Skill Development",
-      "_id": "316",
-      "title": "Machine Learning with Python",
-      "img": "https://www.creativeitinstitute.com/images/course/course_1662804460.jpg",
-      "instructor": "Creative IT",
-      "email": "mccartybrennan@comtours.com",
-      "description": "Various organizations are now getting very good results in commercial, business using Machine Learning. So if you want to work in this trendy sector, then this course is for you.",
-      "total_enroll": 24,
-      "tags": [
-        "27 video lectures",
-        "3 projects",
-        "Lifetime Access"
-      ],
-      "fee": "1,500 taka"
-    }
-  ]
+  {
+    "category_id": "03",
+    "category_name": "Web & Software",
+    "_id": "315",
+    "title": "Python with Django",
+    "img": "https://www.creativeitinstitute.com/images/course/course_1662801340.jpg",
+    "instructor": "Creative IT",
+    "email": "info@creativeitinstitute.com",
+    "description": "Django, the Python framework, has gained popularity as a simple and open source high-level framework. So if you want to build your build on dev, Django might be your best choice.",
+    "total_enroll": 17,
+    "tags": ["30 video lectures", "3 projects", "Lifetime Access"],
+    "fee": "1,200 taka"
+  },
+
+  {
+    "category_id": "01",
+    "category_name": "SSC",
+    "_id": "116",
+    "title": "SSC- Science Bundle",
+    "img": "https://shikho.com/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fcross-border-education-technologies-pte-ltd%2Fimage%2Fupload%2Fv1660761681%2Fed91px0wxaxqraibpide.png&w=828&q=75",
+    "instructor": "Zeeshan Zakaria",
+    "email": "bari@pulze.com",
+    "description": "Great Savings with SSC's Collection of Animated Lessons Courses for All Subjects of Science!",
+    "total_enroll": 78,
+    "tags": ["75 video lessons", "60 Quiz", "15 Board Papers and Mock Exams"],
+    "fee": "3,500 taka"
+  },
+
+  {
+    "category_id": "02",
+    "category_name": "HSC",
+    "_id": "216",
+    "title": "HSC- Biology 1st Paper",
+    "img": "https://shikho.com/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fcross-border-education-technologies-pte-ltd%2Fimage%2Fupload%2Fv1656656052%2Fb8mrqjgaqiib2vmzbys0.png&w=828&q=75",
+    "instructor": "Sadia Rehnuma Ferdous",
+    "email": "mccartybrennan@comtours.com",
+    "description": "Excellent animated lessons course with solutions for all year syllabus of HSC Biology. There are great features including smart notes, quizzes.",
+    "total_enroll": 26,
+    "tags": ["20 video lessons", "15 Quiz", "10 Board Papers and Mock Exams"],
+    "fee": "350 taka"
+  },
+
+  {
+    "category_id": "03",
+    "category_name": "Web & Software",
+    "_id": "316",
+    "title": "Machine Learning with Python",
+    "img": "https://www.creativeitinstitute.com/images/course/course_1662804460.jpg",
+    "instructor": "Creative IT",
+    "email": "info@creativeitinstitute.com",
+    "description": "Various organizations are now getting very good results in commercial, business using Machine Learning. So if you want to work in this trendy sector, then this course is for you.",
+    "total_enroll": 24,
+    "tags": ["27 video lectures", "3 projects", "Lifetime Access"],
+    "fee": "1,500 taka"
+  },
+
+  {
+    "category_id": "04",
+    "category_name": "Graphic Design",
+    "_id": "412",
+    "title": "UX/UI Design",
+    "img": "https://www.creativeitinstitute.com/images/course/course_1662637290.jpg",
+    "instructor": "Creative IT",
+    "email": "info@creativeitinstitute.com",
+    "description": "The magician of making a web site or app user friendly is a UX/UI designer. If you have good design sense and feel comfortable working with graphical elements then this course is for you.",
+    "total_enroll": 315,
+    "tags": ["35 video lectures", "6 projects", "Lifetime Access"],
+    "fee": "2,500 taka"
+  }
+]
